@@ -32,7 +32,7 @@
   "bugs": {
     "url": "https://github.com/mathieustan/vue-datepicker/issues"
   },
-  "homepage": "https://vue-datepicker.netlify.com/",
+  "homepage": "https://vue-datepicker.netlify.app/",
   "scripts": {
     "commit": "git cz",
     "dev": "npm run build:es -- --watch",
